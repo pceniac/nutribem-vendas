@@ -792,7 +792,7 @@ export default function NutriBemPlusLandingPage() {
           <a href="#top" className="brand">
             <div className="brand-mark">NB+</div>
             <div className="brand-text">
-              <strong>Nutri Bem Plus</strong>
+              <strong>NutriBem Plus</strong>
               <span>Saúde, controle e evolução</span>
             </div>
           </a>
